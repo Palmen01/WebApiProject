@@ -296,7 +296,10 @@
           "Microsoft.Extensions.Configuration.UserSecrets": "8.0.0"
         },
         "runtime": {
-          "Configuration.dll": {}
+          "Configuration.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

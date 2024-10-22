@@ -916,12 +916,6 @@
       "System.Text.Json/8.0.4": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/System.Text.Json.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.724.31311"
-          }
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {},
@@ -955,7 +949,10 @@
           "Microsoft.Extensions.Configuration.UserSecrets": "8.0.0"
         },
         "runtime": {
-          "Configuration.dll": {}
+          "Configuration.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DbContext/1.0.0": {
@@ -970,7 +967,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
         },
         "runtime": {
-          "DbContext.dll": {}
+          "DbContext.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DbModels/1.0.0": {
@@ -982,7 +982,10 @@
           "Models": "1.0.0"
         },
         "runtime": {
-          "DbModels.dll": {}
+          "DbModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DbRepos/1.0.0": {
@@ -993,7 +996,10 @@
           "Models": "1.0.0"
         },
         "runtime": {
-          "DbRepos.dll": {}
+          "DbRepos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Models/1.0.0": {
@@ -1002,7 +1008,10 @@
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.8"
         },
         "runtime": {
-          "Models.dll": {}
+          "Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Services/1.0.0": {
@@ -1017,7 +1026,10 @@
           "System.IdentityModel.Tokens.Jwt": "8.0.1"
         },
         "runtime": {
-          "Services.dll": {}
+          "Services.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

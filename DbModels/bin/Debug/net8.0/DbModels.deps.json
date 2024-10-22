@@ -385,7 +385,10 @@
           "Microsoft.Extensions.Configuration.UserSecrets": "8.0.0"
         },
         "runtime": {
-          "Configuration.dll": {}
+          "Configuration.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Models/1.0.0": {
@@ -394,7 +397,10 @@
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.8"
         },
         "runtime": {
-          "Models.dll": {}
+          "Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

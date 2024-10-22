@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj": {}
+    "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj": {
+    "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj",
+        "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\obj\\",
+        "outputPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
               },
               "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Models\\Models.csproj": {
                 "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Models\\Models.csproj"
@@ -49,6 +49,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -87,18 +92,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
+    "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj",
+        "projectUniqueName": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj",
         "projectName": "Configuration",
-        "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj",
+        "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\obj\\",
+        "outputPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,6 +131,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -177,18 +187,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj": {
+    "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj",
+        "projectUniqueName": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj",
         "projectName": "DbContext",
-        "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj",
+        "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\obj\\",
+        "outputPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -210,8 +220,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
               },
               "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbModels\\DbModels.csproj": {
                 "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbModels\\DbModels.csproj"
@@ -226,6 +236,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -281,7 +296,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -314,8 +329,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
               },
               "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Models\\Models.csproj": {
                 "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Models\\Models.csproj"
@@ -327,6 +342,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -362,7 +382,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -395,11 +415,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
               },
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj"
               },
               "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbModels\\DbModels.csproj": {
                 "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbModels\\DbModels.csproj"
@@ -414,6 +434,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -435,7 +460,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -468,8 +493,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
               }
             }
           }
@@ -478,6 +503,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -505,7 +535,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -538,11 +568,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\Configuration\\Configuration.csproj"
               },
-              "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj": {
-                "projectPath": "C:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj"
+              "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj": {
+                "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbContext\\DbContext.csproj"
               },
               "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbModels\\DbModels.csproj": {
                 "projectPath": "c:\\Users\\simon\\Desktop\\dataåtkomst\\projekt\\WebApiProject\\DbModels\\DbModels.csproj"
@@ -560,6 +590,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -595,7 +630,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

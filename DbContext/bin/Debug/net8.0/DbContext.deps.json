@@ -1210,12 +1210,6 @@
       "System.Text.Json/8.0.4": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/System.Text.Json.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.724.31311"
-          }
         }
       },
       "System.Threading.Channels/6.0.0": {},
@@ -1250,7 +1244,10 @@
           "Microsoft.Extensions.Configuration.UserSecrets": "8.0.0"
         },
         "runtime": {
-          "Configuration.dll": {}
+          "Configuration.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DbModels/1.0.0": {
@@ -1262,7 +1259,10 @@
           "Models": "1.0.0"
         },
         "runtime": {
-          "DbModels.dll": {}
+          "DbModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Models/1.0.0": {
@@ -1271,7 +1271,10 @@
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "8.0.8"
         },
         "runtime": {
-          "Models.dll": {}
+          "Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

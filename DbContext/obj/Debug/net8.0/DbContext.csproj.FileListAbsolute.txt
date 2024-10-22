@@ -58,9 +58,9 @@ c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\ne
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.AssemblyInfo.cs
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.csproj.CoreCompileInputs.cache
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.sourcelink.json
-c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.csproj.CopyComplete
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.dll
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\refint\DbContext.dll
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.pdb
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.genruntimeconfig.cache
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\ref\DbContext.dll
+c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbContext\obj\Debug\net8.0\DbContext.csproj.Up2Date

@@ -25,10 +25,12 @@ public class csSeedRepo : ISeedRepo
             var _attractions = _seeder.ItemsToList<csAttractionDbM>(100); 
             //users to list
             var _users = _seeder.ItemsToList<csUserDbM>(50);
+
+            var _address = _seeder.UniqueItemsToList<csAddressDbM>(100);
             
             //add address and comments to attraction
             foreach (var attraction in _attractions) {
-                attraction.AddressDbM = new csAddressDbM().Seed(_seeder);
+                attraction.AddressDbM = _seeder.FromList(_address);
                 attraction.CommentsDbM = _seeder.ItemsToList<csCommentDbM>(_seeder.Next(0, 21));
 
                 //add user to comment

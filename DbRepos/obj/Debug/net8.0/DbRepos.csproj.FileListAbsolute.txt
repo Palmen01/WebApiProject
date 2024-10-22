@@ -59,8 +59,8 @@ c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\DbRepos.AssemblyInfo.cs
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\DbRepos.csproj.CoreCompileInputs.cache
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\DbRepos.sourcelink.json
-c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\DbRepos.csproj.CopyComplete
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\DbRepos.dll
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\refint\DbRepos.dll
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\DbRepos.pdb
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\ref\DbRepos.dll
+c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\DbRepos\obj\Debug\net8.0\DbRepos.csproj.Up2Date

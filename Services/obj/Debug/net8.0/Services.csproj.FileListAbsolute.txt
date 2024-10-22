@@ -65,8 +65,8 @@ c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\Services.sourcelink.json
-c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\Services.dll
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\refint\Services.dll
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\Services.pdb
 c:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\simon\Desktop\dataåtkomst\projekt\WebApiProject\Services\obj\Debug\net8.0\Services.csproj.Up2Date
